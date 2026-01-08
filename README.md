@@ -31,7 +31,7 @@ My work focuses on **performance, reliability, and system-level integration**, w
   - **Audio output** using DAC + TIM6 + DMA for smooth playback
   - Modular firmware architecture with unified menu and built-in debug hooks
 
-👉 **Repo:** `https://github.com/AhsanShadabPatel/Handheld-Gaming-Console`
+👉 **Repo:** https://github.com/AhsanShadabPatel/Handheld-Gaming-Console
 
 ---
 
@@ -45,7 +45,7 @@ My work focuses on **performance, reliability, and system-level integration**, w
   - Row decoder, column multiplexer, and sense amplifiers
   - Timing analysis and **corner-case verification** via transient simulations
 
-👉 **Repo:** `(https://github.com/AhsanShadabPatel/16-16-SRAM-Array)`
+👉 **Repo:** https://github.com/AhsanShadabPatel/16-16-SRAM-Array
 
 ---
 
@@ -59,7 +59,7 @@ My work focuses on **performance, reliability, and system-level integration**, w
   - Pressure swing adsorption control with oxygen concentration monitoring
   - Reliability-focused design with system data analysis for rapid fault response
 
-👉 **Repo:** `https://github.com/AhsanShadabPatel/Portable-Oxygen-Concentrator-Fault-Detection`  
+👉 **Repo:** https://github.com/AhsanShadabPatel/Portable-Oxygen-Concentrator-Fault-Detection 
 
 > Note: Some implementation details may be abstracted/redacted due to IP/patent considerations.
 
@@ -75,7 +75,7 @@ My work focuses on **performance, reliability, and system-level integration**, w
   - Stepper motor + driver integration for accurate X, Y, Z positioning
   - Custom mechanical structure integrated with electronics and firmware
 
-👉 **Repo:** `https://github.com/AhsanShadabPatel/3-Axis-Metal-Cutting-CNC-Machine`
+👉 **Repo:** https://github.com/AhsanShadabPatel/3-Axis-Metal-Cutting-CNC-Machine
 
 ---
 
