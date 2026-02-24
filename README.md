@@ -79,12 +79,7 @@ My work focuses on **performance, reliability, and system-level integration**, w
 
 ---
 
-## 💼 Professional experience
-
-- **Software Engineer – Coforge**  
-  - Integrated enterprise systems using **REST/SOAP APIs**, handling 1,000+ daily transactions  
-  - Improved backend performance through query tuning and DB optimization  
-  - Managed CI/CD deployments with a 99%+ success rate across environments  
+## 💼 Professional experience  
 
 - **Graduate Teaching Assistant – University of Texas at Arlington**  
   - Mentored engineers in **PCB design, embedded systems debugging, and HDL simulation**  
